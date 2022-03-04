@@ -19,7 +19,7 @@ export function Summary() {
                     <p>Saídas</p>
                     <img src={outcomeImg} alt="Saídas" />
                 </header>
-                <strong>- 5000,00</strong>
+                <strong>- 500,00</strong>
             </div>
             <div className='highlight-background'>
                 <header>
